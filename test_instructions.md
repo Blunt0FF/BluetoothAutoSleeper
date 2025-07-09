@@ -1,5 +1,3 @@
-Вот английская версия с сохранённой GitHub-совместимой Markdown-разметкой:
-
 # Testing BluetoothAutoSleeper
 
 ## Quick Test of New Functionality
