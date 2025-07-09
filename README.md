@@ -125,10 +125,6 @@ BluetoothAutoSleeper.app/
 │   ├── MacOS/
 │   │   ├── BluetoothAutoSleeper       # GUI application
 │   │   └── BluetoothAutoSleeperDemon  # Background process
-│   └── Resources/
-│       └── BluetoothAutoSleeper.icns
+└── └── Resources/
+        └── BluetoothAutoSleeper.icns
 ```
-
-## License
-
-MIT License 
