@@ -2,6 +2,8 @@
 
 A simple Mac application that automatically manages Bluetooth power state during sleep and wake transitions.
 
+**[📦 Download BluetoothAutoSleeper.dmg](https://github.com/Blunt0FF/BluetoothAutoSleeper/releases/latest)**
+
 ## What the app does
 
 - **Automatically disables Bluetooth** when Mac goes to sleep (with 5-second delay)
